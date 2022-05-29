@@ -2,3 +2,4 @@
 mkdir tmp/my_first_directory
 cd tmp
 tmp/touch my_first_directory
+rm cd tmp
