@@ -1,2 +1,3 @@
 #!/bin/bash
 sodu su betty
+sudo su -betty
