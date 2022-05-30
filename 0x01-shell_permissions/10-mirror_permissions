@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod --reference=newfile.txt hello
-chmod --reference=olleh.txt hello
+chmod --reference=olleh hello
