@@ -1,2 +1,3 @@
 #!/bin/bash
-echo 'hello root'
+echo "hello $USER
+
